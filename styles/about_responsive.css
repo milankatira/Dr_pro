@@ -29,7 +29,7 @@
 {
 	.main_nav
 	{
-	    margin-left: 143px;
+	    margin-left: 100px;
 	}
 }
 
@@ -281,7 +281,7 @@
 	{
 		font-size: 13px;
 	}
-	.logo a > div:first-child
+	.logo img > div:first-child
 	{
 		font-size: 24px;
 	}
